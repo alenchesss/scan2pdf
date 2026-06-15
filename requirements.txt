@@ -1,0 +1,4 @@
+img2pdf
+pypdf
+Pillow
+pyinstaller
